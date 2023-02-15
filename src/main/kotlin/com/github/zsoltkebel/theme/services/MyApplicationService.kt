@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zsoltkebel.theme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zsoltkebel.theme.MyBundle
 
 class MyApplicationService {
 
